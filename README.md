@@ -1,4 +1,4 @@
-# OpenModelicaDocker
+# minimal-open-modelica docker image
 
 Docker image with minimal OpenModelica Compiler installed.
 
